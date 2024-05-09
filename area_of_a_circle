@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -n "Enter the radius of a circle :"
+read r
+readonly pi=3
+area=$(($pi * ($r * $r)))
+echo "Area of circle is $area"

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+NUM1=4
+NUM2=6
+SUM=$NUM1+$NUM2
+
+printf "%s\n" ${SUM}

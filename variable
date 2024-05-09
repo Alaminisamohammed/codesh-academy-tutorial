@@ -1,0 +1,6 @@
+#!/bin/bash
+
+BACKUP="/NAS05"
+NOW=$(date)
+
+echo "*** Dumping my SQL Database to $BACKUP/$NOW...***"

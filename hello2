@@ -1,0 +1,6 @@
+#!/bin/python3
+
+num1 = 9 
+num2 = 9
+sum = int(num1) + int(num2);
+print(sum);

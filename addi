@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pwd 
+NUM1=5
+NUM2=6
+printf $NUM1+$NUM2
